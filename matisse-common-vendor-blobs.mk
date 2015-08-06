@@ -362,5 +362,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmwfdsrcinterface.so:system/vendor/lib/libmmwfdsrcinterface.so 
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/proprietary/su.d/permissive.sh:system/su.d/permissive.sh \
     $(LOCAL_PATH)/proprietary/bin/sshfs:system/bin/sshfs
